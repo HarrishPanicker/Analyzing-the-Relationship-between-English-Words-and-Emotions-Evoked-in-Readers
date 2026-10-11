@@ -1,4 +1,4 @@
-Emotion Classification in Text with Transformers
+<img width="4103" height="5279" alt="diagram" src="https://github.com/user-attachments/assets/52b9a965-4d7a-423d-8c8c-12a49dcc3177" />Emotion Classification in Text with Transformers
 
 Final Year Project, B.Sc. Computer Science (Data Science), Multimedia University.
 
@@ -22,14 +22,8 @@ Modelling: Fine-tuned BERT, RoBERTa and ELECTRA with Hugging Face Transformers.
 Analysis: EDA, correlation analysis and sentence-length error analysis to see where predictions degrade.
 Dashboard: Streamlit app for live predictions and result visuals.
 Repository structure
-.
-├── app/                 # Streamlit dashboard
-│   └── app.py
-├── notebooks/           # Experiments, EDA, training
-├── data/                # Data or download instructions (see below)
-├── docs/                # Report, screenshots
-├── requirements.txt
-└── README.md
+<img width="4103" height="5279" alt="diagram" src="https://github.com/user-attachments/assets/5e907737-4fe6-47cb-84e5-a9ef54dae92d" />
+
 Run the dashboard locally
 Download the GoEmotions_Artifacts folder,
 ensure streamlit is available,
