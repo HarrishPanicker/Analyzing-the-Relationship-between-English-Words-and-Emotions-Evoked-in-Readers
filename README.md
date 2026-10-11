@@ -1,0 +1,2 @@
+# Analyzing-the-Relationship-between-English-Words-and-Emotions-Evoked-in-Readers
+This repository involves the design of a new emotion scheme to develop an alternative to Ekman's scheme, a common and reliable emotion scheme for sentiment analysis. I perform EDA, data cleaning, Agglomerative Hierarchical clustering with cosine distance and train BERT, ELECTRA and RoBERTa on the baseline Ekman's scheme and the new emotion scheme.
