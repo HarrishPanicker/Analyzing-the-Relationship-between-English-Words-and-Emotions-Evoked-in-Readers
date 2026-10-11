@@ -23,6 +23,7 @@ Analysis: EDA, correlation analysis and sentence-length error analysis to see wh
 Dashboard: Streamlit app for live predictions and result visuals.
 Repository structure
 <img width="4103" height="5279" alt="diagram" src="https://github.com/user-attachments/assets/5e907737-4fe6-47cb-84e5-a9ef54dae92d" />
+The above repository structure was generated using gitdiagram.com
 
 Run the dashboard locally
 Download the GoEmotions_Artifacts folder,
