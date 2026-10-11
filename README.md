@@ -1,4 +1,4 @@
-<img width="4103" height="5279" alt="diagram" src="https://github.com/user-attachments/assets/52b9a965-4d7a-423d-8c8c-12a49dcc3177" />Emotion Classification in Text with Transformers
+Emotion Classification in Text with Transformers
 
 Final Year Project, B.Sc. Computer Science (Data Science), Multimedia University.
 
